@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638194670773193192
+      ticks: 638199112218460257
     m_Hash: 1719789460
   m_LockFileStatus:
     m_FilePath: D:/Unity/createwithcode_unit3-Manpa/Prototype3/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638194671054295512
+      ticks: 638199112495035238
     m_Hash: 1755400957
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
